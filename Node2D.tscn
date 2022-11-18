@@ -12,6 +12,7 @@ shader_param/OITAVAS = 4
 [node name="Node2D" type="Node2D"]
 
 [node name="Sprite" type="Sprite" parent="."]
+visible = false
 position = Vector2( 960, 480 )
 texture = ExtResource( 1 )
 
